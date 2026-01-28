@@ -9,6 +9,10 @@ Here are some videos demonstrating the Quindec Toolchanger in action:
 [![6 Tools stress test with MGN rail](http://img.youtube.com/vi/-aM5X-14fe0/0.jpg)](https://www.youtube.com/watch?v=-aM5X-14fe0)
 [![6 color test on my new toolchanger](http://img.youtube.com/vi/941lrKT-fIY/0.jpg)](https://www.youtube.com/watch?v=941lrKT-fIY)
 
+**Join my Discord Server:**
+
+[![Join Discord](https://img.shields.io/badge/Discord-Join%20Chat-5865F2?logo=discord&logoColor=white)](https://discord.gg/CxMwUS3zvY)
+
 Project Quindecum is an open-source toolchanger project built around the  
 **Quindec Toolchanger**, a high-density multi-tool system originally developed
 for a **Voron 2.4 (350mm)** printer.
@@ -44,6 +48,58 @@ remain intentionally consistent.
 
 See: [DESIGN_SCOPE_AND_INTENT.md](DESIGN_SCOPE_AND_INTENT.md)
 
+## Project Status & Upcoming Release
+
+Project Quindecum is currently in a **closed beta testing phase**.
+
+The project will be publicly released once all remaining legal and
+intellectual-property related considerations have been carefully reviewed
+and resolved.  
+This is a precautionary step to ensure that the project can be shared openly
+and responsibly.
+
+A public release is planned in the near future.
+
+---
+
+## Closed Beta Test Participation
+
+Closed beta testers are currently being recruited.
+
+### Preferred configuration
+You may apply for the closed beta if:
+- You own a **Voron 2.4**
+- Your printer uses the **stock Voron 2.4 A/B idler configuration**
+
+This configuration requires no redesign of the Tool Carriage Holder
+and is the primary reference platform for testing.
+
+### Other configurations
+You may also apply if:
+- Your printer is **not a Voron 2.4**, or
+- Your Voron uses **non-stock A/B idlers**
+
+In this case, you are expected to **design and adapt your own Tool Carriage Holder**
+to match your printer’s A/B idler geometry.
+
+---
+
+## Expectations for Beta Testers
+
+Closed beta testers are expected to actively participate in the project by:
+
+- Testing the toolchanger in real printing scenarios
+- Providing feedback on mechanical, electrical, and usability aspects
+- Reporting issues and edge cases
+- Assisting with documentation, diagrams, or build notes when possible
+- Contributing in any other helpful way as the project evolves
+
+This is a collaborative testing effort rather than a one-way distribution.
+
+If you are interested in participating, please be prepared to share
+constructive feedback and practical insights during the testing phase.
+
+
 ## 개요
 
 **Project Quindecum – A 15-Tool Toolchanger 3D Printer**
@@ -54,6 +110,10 @@ Quindec Toolchanger의 동작을 보여주는 영상들입니다.
 
 [![6 Tools stress test with MGN rail](http://img.youtube.com/vi/-aM5X-14fe0/0.jpg)](https://www.youtube.com/watch?v=-aM5X-14fe0)
 [![6 color test on my new toolchanger](http://img.youtube.com/vi/941lrKT-fIY/0.jpg)](https://www.youtube.com/watch?v=941lrKT-fIY)
+
+**디스코드 서버 링크:**
+
+[![Join Discord](https://img.shields.io/badge/Discord-Join%20Chat-5865F2?logo=discord&logoColor=white)](https://discord.gg/CxMwUS3zvY)
 
 Project Quindecum은  
 **Quindec Toolchanger**를 중심으로 설계된 오픈소스 툴체인저 프로젝트입니다.  
@@ -91,3 +151,55 @@ Project Quindecum은
 자세한 내용은 아래 문서를 참고해 주세요.  
 ➡ [DESIGN_SCOPE_AND_INTENT.md](DESIGN_SCOPE_AND_INTENT.md)
 
+## 프로젝트 상태 및 공개 예정
+
+Project Quindecum은 현재 **클로즈드 베타 테스트 단계**에 있습니다.
+
+본 프로젝트는 남아 있는 법적·지식재산권 관련 사항을 충분히 검토하고
+문제가 없음을 명확히 한 이후에 공개될 예정입니다.  
+이는 프로젝트를 보다 책임감 있고 안정적으로 공개하기 위한
+사전 조치입니다.
+
+정식 공개는 **빠른 시일 내**에 이루어질 예정입니다.
+
+---
+
+## 클로즈드 베타 테스트 참여 안내
+
+현재 클로즈드 베타 테스트 참여자를 모집 중입니다.
+
+### 우선 대상 구성
+아래 조건에 해당하는 경우, 클로즈드 베타 테스트에 지원할 수 있습니다.
+
+- **Voron 2.4** 프린터를 보유하고 있고
+- **순정 Voron 2.4 A/B 아이들러 구조**를 사용하는 경우
+
+이 구성은 Tool Carriage Holder의 추가 설계 없이 바로 테스트가 가능하며,
+현재 프로젝트의 기준(reference) 플랫폼입니다.
+
+### 기타 구성
+아래 경우에도 지원은 가능합니다.
+
+- Voron 2.4가 아닌 다른 프린터를 사용하는 경우
+- Voron 2.4이지만 **A/B 아이들러가 순정이 아닌 경우**
+
+이 경우, 해당 프린터에 맞는 **Tool Carriage Holder를 직접 설계해야 합니다.**
+
+---
+
+## 베타 테스터에게 기대하는 사항
+
+클로즈드 베타 테스터는 단순 사용자가 아니라,
+프로젝트에 함께 참여하는 협력자로서 다음과 같은 역할을 기대합니다.
+
+- 실제 출력 환경에서 툴체인저 테스트
+- 기구, 전기, 사용성 관련 피드백 제공
+- 문제점 및 엣지 케이스 리포트
+- 가능하다면 문서화, 다이어그램, 빌드 노트 작성 지원
+- 기타 프로젝트에 도움이 되는 다양한 기여
+
+본 베타 테스트는 일방적인 배포가 아닌,
+**상호 피드백을 기반으로 한 협업 과정**입니다.
+
+참여를 원하신다면, 테스트 과정에서
+적극적인 피드백과 경험 공유가 가능하신 분을 환영합니다.
