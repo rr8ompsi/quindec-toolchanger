@@ -2,6 +2,13 @@
 
 **Project Quindecum – A 15-Tool Toolchanger 3D Printer**
 
+![image](./pics/preview.jpg)
+
+Here are some videos demonstrating the Quindec Toolchanger in action:
+
+[![6 Tools stress test with MGN rail](http://img.youtube.com/vi/-aM5X-14fe0/0.jpg)](https://www.youtube.com/watch?v=-aM5X-14fe0)
+[![6 color test on my new toolchanger](http://img.youtube.com/vi/941lrKT-fIY/0.jpg)](https://www.youtube.com/watch?v=941lrKT-fIY)
+
 Project Quindecum is an open-source toolchanger project built around the  
 **Quindec Toolchanger**, a high-density multi-tool system originally developed
 for a **Voron 2.4 (350mm)** printer.
@@ -40,6 +47,13 @@ See: [DESIGN_SCOPE_AND_INTENT.md](DESIGN_SCOPE_AND_INTENT.md)
 ## 개요
 
 **Project Quindecum – A 15-Tool Toolchanger 3D Printer**
+
+![image](./pics/preview.jpg)
+
+Quindec Toolchanger의 동작을 보여주는 영상들입니다.
+
+[![6 Tools stress test with MGN rail](http://img.youtube.com/vi/-aM5X-14fe0/0.jpg)](https://www.youtube.com/watch?v=-aM5X-14fe0)
+[![6 color test on my new toolchanger](http://img.youtube.com/vi/941lrKT-fIY/0.jpg)](https://www.youtube.com/watch?v=941lrKT-fIY)
 
 Project Quindecum은  
 **Quindec Toolchanger**를 중심으로 설계된 오픈소스 툴체인저 프로젝트입니다.  
