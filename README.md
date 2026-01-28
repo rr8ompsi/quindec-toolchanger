@@ -1,6 +1,6 @@
 ## Overview
 
-**Project Quindecum – A 15-Tool Toolchanger 3D Printer**
+**Project Quindecum – A 15-Tools Toolchanger 3D Printer**
 
 ![image](./pics/preview.jpg)
 
@@ -113,7 +113,7 @@ quantities, and notes on substitution or sourcing.
 
 ## 개요
 
-**Project Quindecum – A 15-Tool Toolchanger 3D Printer**
+**Project Quindecum – A 15-Tools Toolchanger 3D Printer**
 
 ![image](./pics/preview.jpg)
 
