@@ -16,6 +16,9 @@ to form a scalable, high-density multi-tool toolchanger system.
 Original concept and demonstration by Irbis:  
 🔗 https://www.youtube.com/watch?v=hpV5Z1TnGdY
 
+Irbis' MedusaHC Github:
+🔗 https://github.com/Irbis3D/MedusaHC
+
 **Project Quindecum – A 15-Tools Toolchanger 3D Printer**
 
 ![image](./pics/preview.jpg)
