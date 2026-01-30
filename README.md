@@ -1,5 +1,21 @@
 ## Overview
 
+## Inspiration and Acknowledgement
+
+This project was significantly influenced by **Irbis' MedusaHC mechanism**.
+
+MedusaHC introduces a clever mechanical concept in which an extruder lever,
+equipped with an extruder gear, is actuated and pushed by an additional extruder gear.
+Without this idea, the development of Project Quindecum would likely have taken
+a substantially longer time.
+
+Building upon the core concept demonstrated in MedusaHC,
+this project extends the idea with additional mechanical and architectural concepts
+to form a scalable, high-density multi-tool toolchanger system.
+
+Original concept and demonstration by Irbis:  
+🔗 https://www.youtube.com/watch?v=hpV5Z1TnGdY
+
 **Project Quindecum – A 15-Tools Toolchanger 3D Printer**
 
 ![image](./pics/preview.jpg)
@@ -112,6 +128,24 @@ The spreadsheet includes part numbers, suggested vendors,
 quantities, and notes on substitution or sourcing.
 
 ## 개요
+
+## 아이디어 출처 및 감사의 말
+
+본 프로젝트는 **Irbis가 공개한 MedusaHC 메커니즘**에서
+큰 영감을 받았습니다.
+
+MedusaHC는 익스트루더 기어가 장착된 레버를,
+추가적인 익스트루더 기어를 이용해 밀어내는
+독창적인 기계적 메커니즘을 제안합니다.
+이 아이디어가 없었다면 Project Quindecum의 개발은
+훨씬 더 오랜 시간이 필요했을 것입니다.
+
+Project Quindecum은 MedusaHC에서 제시된 핵심 개념을 바탕으로,
+추가적인 기구적·구조적 아이디어를 확장하여
+고밀도 멀티 툴 툴체인저 시스템으로 발전시킨 프로젝트입니다.
+
+Irbis의 MedusaHC 소개 영상:  
+🔗 https://www.youtube.com/watch?v=hpV5Z1TnGdY
 
 **Project Quindecum – A 15-Tools Toolchanger 3D Printer**
 
