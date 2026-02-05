@@ -30,7 +30,7 @@ Here are some videos demonstrating the Quindec Toolchanger in action:
 
 **Join my Discord Server:**
 
-[![Join Discord](https://img.shields.io/badge/Discord-Join%20Chat-5865F2?logo=discord&logoColor=white)](https://discord.gg/CxMwUS3zvY)
+[![Srin](https://discord-live-members-count-badge.vercel.app/api/discord-total?guildId=1464692118177054906&color=5865F2&label=Srin&scale=1)](https://discord.gg/CxMwUS3zvY)
 
 Project Quindecum is an open-source toolchanger project built around the  
 **Quindec Toolchanger**, a high-density multi-tool system originally developed
@@ -164,7 +164,7 @@ Quindec Toolchanger의 동작을 보여주는 영상들입니다.
 
 **디스코드 서버 링크:**
 
-[![Join Discord](https://img.shields.io/badge/Discord-Join%20Chat-5865F2?logo=discord&logoColor=white)](https://discord.gg/CxMwUS3zvY)
+[![Srin](https://discord-live-members-count-badge.vercel.app/api/discord-total?guildId=1464692118177054906&color=5865F2&label=Srin&scale=1)](https://discord.gg/CxMwUS3zvY)
 
 Project Quindecum은  
 **Quindec Toolchanger**를 중심으로 설계된 오픈소스 툴체인저 프로젝트입니다.  
